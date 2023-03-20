@@ -1,5 +1,3 @@
-
-
 # Sophoappeal image appeal test #1 -- lab and crowd
 
 Core idea of test #1: only images, using aesthetics_view test framework, with a [1,5] star rating.
